@@ -15,6 +15,9 @@
 ## Man Pages
 -   `man lsmod`
 
+## virtual files
+- ls /proc/
+
 # `insmod` Module Loading Process
 
 1.  Calls `init_module` to hint the kernel that a module insertion is attempted.
