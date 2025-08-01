@@ -11,7 +11,7 @@
 ## Check Last Command
 -   `sudo $?`
 ## List Modules
--   `sudo lsmod`
+-   `sudo lsmod | grep ldd`
 ## Man Pages
 -   `man lsmod`
 
